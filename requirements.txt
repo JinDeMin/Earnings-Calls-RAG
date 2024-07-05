@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pandas
+selenium
+spacy
+sentence-transformers
+torch
+transformers
